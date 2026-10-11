@@ -1,0 +1,6 @@
+{
+  "name": "MINDORA",
+  "description": "MINDORA (Mind + Aura) — A safe digital place to express your mind without judgment. Features Anonymous Mode, MindSpace mood aura, Writing Corner, Communities, and AI thought reflection. Founded by Forida.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
